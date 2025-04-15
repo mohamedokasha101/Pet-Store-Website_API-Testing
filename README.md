@@ -88,7 +88,7 @@ It includes automated tests, manual test cases, bug reports, and a well-structur
 ## 📣 Author
 
 **Muhammad Okasha**  
-🧪 Manual & Automation Tester  
+🧪 Software Tester  
 📧 okasha.mohamed101@gmail.com
 
 ---

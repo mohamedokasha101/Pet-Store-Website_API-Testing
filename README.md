@@ -1,4 +1,4 @@
-# 🐾 Swagger Petstore API Testing Project
+# 🐾 Petstore Website API Testing Project
 
 This repository contains a complete API testing project for the **Swagger Petstore** sample API using **Postman**.
 
